@@ -65,7 +65,6 @@ O portfólio foi desenvolvido com **design responsivo**, garantindo uma navegaç
 
 - HTML5
 - CSS3 (Flexbox, Media Queries)
-- Ícones do [Font Awesome](https://fontawesome.com/) *(opcional)*
 
 ---
 
